@@ -37,11 +37,11 @@ Instalasi tidak diperlukan, langsung esekusi
 
 ## Contoh Penggunaan
 
-```javascript
+```
 <script src='https://ettoavi.github.io/kp-elite-js/trunk/DataFetcher.mini.js' type='text/javascript'></script>
 <script src='https://ettoavi.github.io/kp-elite-js/etto-aa-js/modifier/kampung-elit.js' type='text/javascript'></script>
 <script src='https://ettoavi.github.io/kp-elite-js/etto-aa-js/modifier/ettoavi.js' type='text/javascript'></script>
-```javascript
+```
 
 
 Isi keterangan belum tersedia untuk saaat ini.
