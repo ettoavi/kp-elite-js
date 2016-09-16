@@ -21,7 +21,7 @@ Format akses selalu berbentuk https://{username}.github.io/{branch}/{file yg mau
 
 contohnya : <br/> 
 1. [https://ettoavi.github.io/kp-elite-js](https://ettoavi.github.io/kp-elite-js) -> Akses halaman root<br/>
-2. [https://ettoavi.github.io/kp-elite-js/kp-elite-js/trunk/DataFetcher.mini.js](https://ettoavi.github.io/kp-elite-js/kp-elite-js/trunk/DataFetcher.mini.js) Akses file DataFetcher.mini.js<br/>
+2. [https://ettoavi.github.io/kp-elite-js/trunk/DataFetcher.mini.js](https://ettoavi.github.io/kp-elite-js/trunk/DataFetcher.mini.js) Akses file DataFetcher.mini.js<br/>
 
 ## Instalasi
 Instalasi tidak diperlukan, langsung esekusi
@@ -37,10 +37,11 @@ Instalasi tidak diperlukan, langsung esekusi
 
 ## Contoh Penggunaan
 
-```ruby
-require 'autoliker'
-client = OAuth2::Client.new('client_id', 'client_secret', :site => 'https://example.org')
-```
+```javascript
+<script src='https://ettoavi.github.io/kp-elite-js/trunk/DataFetcher.mini.js' type='text/javascript'></script>
+<script src='https://ettoavi.github.io/kp-elite-js/etto-aa-js/modifier/kampung-elit.js' type='text/javascript'></script>
+<script src='https://ettoavi.github.io/kp-elite-js/etto-aa-js/modifier/ettoavi.js' type='text/javascript'></script>
+```javascript
 
 
 Isi keterangan belum tersedia untuk saaat ini.
