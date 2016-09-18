@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ettoavi/kp-elite-js.png?label=ready&title=Ready)](https://waffle.io/ettoavi/kp-elite-js)
 [![Gem Version](http://img.shields.io/gem/v/oauth2.svg)][gem]
 [![Build Status](http://img.shields.io/travis/intridea/oauth2.svg)][travis]
 [![Dependency Status](http://img.shields.io/gemnasium/intridea/oauth2.svg)][gemnasium]
